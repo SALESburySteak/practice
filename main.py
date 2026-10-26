@@ -1,11 +1,8 @@
 from pyscript import document, display
 
-subjects = {'Math', 'Science', 'Filipino', 'ICT'}
-output = (subjects)
-
-subjects.add('PE')
+subjects = {True, 1}
 
 
 
-display(output, target="div1")
+display(subjects, target="div1")
 
