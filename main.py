@@ -1,6 +1,6 @@
 from pyscript import document, display
 
-subjects = {True, 1}
+subjects = {'dude', 1}
 
 
 
